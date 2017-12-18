@@ -2,8 +2,11 @@
 
 
 ## Download data
-    $ python tools/startup.py
-
+```
+    $ cd tools
+    $ python startup.py
+```
 
 ## Reference
 - https://github.com/jeremy-shannon/udacity-Intro-to-Machine-Learning
+- https://github.com/Farheen2302/Mini_Project/blob/master/L10_TextLearning/text_learning/vectorize_text.py
