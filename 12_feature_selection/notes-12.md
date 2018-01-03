@@ -21,3 +21,6 @@ A classic way to overfit an algorithm is by using lots of features and not a lot
 ## Bias vs Variance
     High bias: over simplied, few features uese
     High variance: many features, overfits, minimize SSE (sum of squared error)
+
+## Refernce 
+    https://jefflirion.github.io/udacity/Intro_to_Machine_Learning/Lesson11.html
